@@ -11,9 +11,7 @@ import time
 
 
 #api info
-api_url = "https://api.subscriptiongenius.com/2/history/"
-api_key_id = "f56a62661984e3f0676701ed5e6760c2"
-api_password = "205591aba92e00b1edee8ea880e968f7"
+
 
 #generates csv file to be populated, can edit with name of your choice
 filename = "history3.csv"
