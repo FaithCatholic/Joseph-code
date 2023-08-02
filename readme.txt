@@ -21,5 +21,5 @@ if you need to double check it, look at it inside of visual studio. after you ha
 work perfectly. 
 
 **note, you could try your luck with format_date plugin inside of migrate instead of changing format inside of sheets, but I 
-had no luck with this approach
+had no luck with this approach.
 
