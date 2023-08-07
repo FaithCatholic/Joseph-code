@@ -1,4 +1,4 @@
-instructions for succesfully running and using this script to call subscription genius's api and pull history data down
+# Instructions for succesfully running and using this script to call subscription genius's api and pull history data down
 from their backend
 
 *** using script ***
