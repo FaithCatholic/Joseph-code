@@ -1,5 +1,4 @@
-# Instructions for succesfully running and using this script to call subscription genius's api and pull history data down
-from their backend
+# Instructions for succesfully running and using this script to call subscription genius's api and pull history data down from their backend
 
 *** using script ***
 populate the testpad .rtf files accordingly. make sure that the subscriber ID at index 1 in testpad is == to renewal code 
